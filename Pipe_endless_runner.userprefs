@@ -1,0 +1,31 @@
+﻿<Properties>
+  <MonoDevelop.Ide.Workspace />
+  <MonoDevelop.Ide.Workbench ActiveDocument="../unitycricket3d_repo/Assets/Scripts/BehaviorActions/BatsmanBehaviourList.cs">
+    <Files>
+      <File FileName="../unitycricket3d_repo/Assets/Scripts/Controllers/BatsmanController.cs" Line="589" Column="69" />
+      <File FileName="../unitycricket3d_repo/Assets/Scripts/Core/PlayStateTypes.cs" Line="7" Column="29" />
+      <File FileName="../unitycricket3d_repo/Assets/Scripts/BehaviorActions/BatsmanBehaviourList.cs" Line="870" Column="22" />
+      <File FileName="../unitycricket3d_repo/Assets/Scripts/Controllers/NonStrikerController.cs" Line="72" Column="40" />
+      <File FileName="../unitycricket3d_repo/Assets/Scripts/Controllers/BowlerBehaviorList.cs" Line="2234" Column="1" />
+      <File FileName="../unitycricket3d_repo/Assets/Scripts/Core/Game.cs" Line="687" Column="1" />
+      <File FileName="../unitycricket3d_repo/Assets/Scripts/UI/GameHUDButtonBehaviourList.cs" Line="8" Column="2" />
+      <File FileName="../unitycricket3d_repo/Assets/Scripts/UI/RunControlBehavior.cs" Line="63" Column="33" />
+      <File FileName="../unitycricket3d_repo/Assets/Scripts/UI/ScoreBoardController.cs" Line="22" Column="5" />
+      <File FileName="../unitycricket3d_repo/Assets/Scripts/BehaviorActions/NonStrikerBehaviourList.cs" Line="533" Column="2" />
+      <File FileName="../unitycricket3d_repo/Assets/Scripts/BehaviorActions/WicketKeeperBehaviourList.cs" Line="2792" Column="1" />
+      <File FileName="../unitycricket3d_repo/Assets/Scripts/Core/ActualBallBehavior.cs" Line="368" Column="55" />
+      <File FileName="../unitycricket3d_repo/Assets/Scripts/Helpers/GameStateUpdateHelper.cs" Line="85" Column="19" />
+      <File FileName="../unitycricket3d_repo/Assets/Scripts/DataTypes/DataTypes.cs" Line="141" Column="1" />
+      <File FileName="../unitycricket3d_repo/Assets/Scripts/Managers/GameManager.cs" Line="111" Column="2" />
+    </Files>
+    <Pads>
+      <Pad Id="MonoDevelop.Debugger.WatchPad">
+        <State />
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+</Properties>
